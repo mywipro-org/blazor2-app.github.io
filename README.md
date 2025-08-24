@@ -1,0 +1,1 @@
+# blazor-static-app-v1
